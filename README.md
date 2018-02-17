@@ -1,2 +1,2 @@
 # soap-client
-Lightweight Java library to do SOAP request by RestTemplate
+Lightweight Java library to make SOAP request by RestTemplate
