@@ -1,0 +1,20 @@
+<envelope>
+	<salida>
+		<![CDATA[
+		    <XML>
+				<OUTPUT>
+					<DATOS>
+						<contactos>
+					        <codigo>1234567</codigo>
+					        <nombre>LOREM</nombre>
+					    </contactos>
+					    <contactos>
+					        <codigo>9999999</codigo>
+					        <nombre>TEST NAME</nombre>
+					    </contactos>
+					</DATOS>
+				</OUTPUT>
+			</XML>
+	    ]]>
+	</salida>
+</envelope>

@@ -1,0 +1,6 @@
+<note>
+<to><contacto><codigo>1234567</codigo><nombre>LOREM</nombre></contacto></to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body><contacto><codigo>9999999</codigo><nombre>TEST NAME</nombre></contacto></body>
+</note>

@@ -1,0 +1,6 @@
+<note>
+<to>$contact</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>$contact2</body>
+</note>

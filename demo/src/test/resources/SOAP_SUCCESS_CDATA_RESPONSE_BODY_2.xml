@@ -1,0 +1,17 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:urn="urn:mapfrewsgw" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<urn:MATRICULAS soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+			<xmlEntrada xsi:type="xsd:string">
+				<![CDATA[
+				<XML>
+					<contactos>
+				        <codigo>1234567</codigo>
+				        <nombre>LOREM</nombre>
+				    </contactos>
+			    </XML>]]>
+			 </xmlEntrada>
+		</urn:MATRICULAS>
+	</soapenv:Body>
+
+</soapenv:Envelope>
