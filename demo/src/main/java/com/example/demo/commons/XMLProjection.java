@@ -13,7 +13,7 @@ public @interface XMLProjection {
 	public String CDATA() default "";
 	public boolean decodeCDATA() default false; 
 	/**
-	 * If it exists CDATA, this value valid must be a sub-path from CDATA expression
+	 * If it exists CDATA, this value must be a sub-path from CDATA expression
 	 * @return Projection string. Default value: / (root element)
 	 */
 	public String value() default "/";
